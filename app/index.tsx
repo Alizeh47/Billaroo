@@ -19,7 +19,7 @@ export default function IntroScreen() {
   }
 
   const handleStart = () => {
-    router.push('/(tabs)');
+    router.push('/utility-tracker');
   };
 
   return (
