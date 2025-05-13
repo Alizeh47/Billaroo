@@ -65,7 +65,7 @@ export default function UtilityTrackerScreen() {
 
   // Handle adding utility
   const handleAddUtility = () => {
-    router.push('/(tabs)');
+    router.push('/bill-payment');
   };
 
   // Handle slider change
